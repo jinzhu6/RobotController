@@ -1,0 +1,13 @@
+﻿  PidController.cpp
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(11): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(97): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\marty\documents\visual studio 2015\projects\pidcontroller\pidcontroller\pidcontroller.cpp(99): warning C4305: 'argument': truncation from 'double' to 'float'
+  PidController.vcxproj -> C:\Users\marty\Documents\Visual Studio 2015\Projects\PidController\Debug\PidController.exe
+  PidController.vcxproj -> C:\Users\marty\Documents\Visual Studio 2015\Projects\PidController\Debug\PidController.pdb (Full PDB)
